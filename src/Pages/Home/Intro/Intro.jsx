@@ -77,7 +77,7 @@
 // export default Intro;
 
 
-import React from 'react';
+
 
 const Intro = () => {
   return (
