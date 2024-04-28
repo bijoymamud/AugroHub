@@ -3,9 +3,9 @@ import { FaCheckCircle } from "react-icons/fa";
 
 const Benefit = () => {
   return (
-    <section className='my-32'>
+    <section className='pt-32'>
 
-      <div className="w-5/6 mx-auto md:flex justify-center items-center">
+      <div className="w-5/6 pt-32 mx-auto md:flex justify-center items-center">
 
         <div className="w-4/6">
           <h2 className="text-2xl pb-2 font-bold text-amber-600">WHY CHOOSE US</h2>

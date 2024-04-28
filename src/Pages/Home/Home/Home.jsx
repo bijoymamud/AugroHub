@@ -4,6 +4,7 @@ import Benefit from '../Benefit/Benefit';
 import Intro from '../Intro/Intro';
 import PopularVag from '../PopularVag/PopularVag';
 import SellingProduct from '../SellingProduct/SellingProduct';
+import OurStuff from '../Stuff/OurStuff';
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
       <SellingProduct />
       <PopularVag />
       <Benefit />
+      <OurStuff />
     </div>
   );
 };

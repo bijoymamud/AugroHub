@@ -18,7 +18,7 @@ const SellingProduct = () => {
 
               <div>
                 <div className="card card-compact w-96 bg-base-100 shadow-xl">
-                  <figure><img className='w-full h-[300px] transition-transform duration-300 transform hover:scale-110' src="https://i.ibb.co/0fxxnmT/close-up-man-holding-corn-plant.jpg" alt="agricultural pic" /></figure>
+                  <figure><img className='w-full h-[200px] transition-transform duration-300 transform hover:scale-110' src="https://i.ibb.co/0fxxnmT/close-up-man-holding-corn-plant.jpg" alt="agricultural pic" /></figure>
                   <div className="card-body">
                     <h2 className="card-title text-2xl text-black tracking-widest">AGRICULTURE</h2>
                     <p className="text-start text-gray-600 text-base">Seeing rather her you not esteem men settle genius excuse.</p>
@@ -31,7 +31,7 @@ const SellingProduct = () => {
 
               <div>
                 <div className="card card-compact w-96 bg-base-100 shadow-xl">
-                  <figure><img className='w-full h-[300px] transition-transform duration-300 transform hover:scale-110' src="https://i.ibb.co/0qP1282/close-up-box-with-vegetables-hands-mature-man.jpg" alt="VEGETABLE" /></figure>
+                  <figure><img className='w-full h-[200px] transition-transform duration-300 transform hover:scale-110' src="https://i.ibb.co/0qP1282/close-up-box-with-vegetables-hands-mature-man.jpg" alt="VEGETABLE" /></figure>
                   <div className="card-body">
                     <h2 className="card-title text-2xl text-black tracking-widest">FRESH VEGETABLE</h2>
                     <p className="text-start text-gray-600 text-base">Organic rather her you not esteem men settle genius farm.</p>
@@ -44,7 +44,7 @@ const SellingProduct = () => {
 
               <div>
                 <div className="card card-compact w-96 bg-base-100 shadow-xl">
-                  <figure><img className='w-full h-[300px] transition-transform duration-300 transform hover:scale-110' src="https://i.ibb.co/hd8SpQ1/christian-burri-ho-DOPpf-Acm-I-unsplash.jpg" alt="DAIRY FARM" /></figure>
+                  <figure><img className='w-full h-[200px] transition-transform duration-300 transform hover:scale-110' src="https://i.ibb.co/hd8SpQ1/christian-burri-ho-DOPpf-Acm-I-unsplash.jpg" alt="DAIRY FARM" /></figure>
                   <div className="card-body">
                     <h2 className="card-title text-2xl text-black tracking-widest">DAIRY FARM</h2>
                     <p className="text-start text-gray-600 text-base">Fresh & rather her you not esteem men settle genius crops.</p>
