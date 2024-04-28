@@ -84,17 +84,10 @@ const Intro = () => {
     <section className='my-32 w-5/6 mx-auto'>
       <div className='flex items-center justify-center gap-20'>
         <div className='w-5/6'>
-          <img className='rounded-3xl' src="https://themeholy.com/wordpress/frutin/wp-content/uploads/2024/03/about_5_1.jpg" alt="" />
+          <img className='rounded-3xl mx-auto h-[350px] w-[250px]' src="https://i.ibb.co/XCkL6mg/pexels-zen-chung-5529591.jpg" alt="" />
         </div>
         <div className='w-full relative'>
-          <div className='box absolute bottom- transform -translate-x-[240px] left-0 px-2 drop-shadow-xl'>
-            <div className='bg-[#5dc001] hover:bg-amber-500 text-center pt-3 w-full h-[150px] rounded-3xl'>
-              <span className='pt-5'>
-                <h2 className='text-6xl font-bold text-white'>25+</h2>
-                <h5 className='text-lg font-extrabold mt-2 px-2 text-white'>Years of Experience in <br /> Agriculture services</h5>
-              </span>
-            </div>
-          </div>
+
           <div className='w-full'>
 
 

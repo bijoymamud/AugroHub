@@ -52,7 +52,7 @@ const Navbar = () => {
 
           </ul>
         </div>
-        <img className="w-[130px] mt-2" src="https://i.ibb.co/5kcWs2q/Green-Minimalist-Urban-Farming-Illustration-Organic-Food-Logo-1-removebg-preview.png" alt="" />
+        <img className="w-[100px] h-[90px] mt-2" src="https://i.ibb.co/5kcWs2q/Green-Minimalist-Urban-Farming-Illustration-Organic-Food-Logo-1-removebg-preview.png" alt="" />
 
       </div>
       <div className="navbar-center hidden lg:flex">
