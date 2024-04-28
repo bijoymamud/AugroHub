@@ -2,6 +2,7 @@
 import Banner from '../Banner/Banner';
 import Banner2 from '../Banner2/Banner2';
 import Benefit from '../Benefit/Benefit';
+import BlogSlider from '../BlogSlider/BlogSlider';
 import Intro from '../Intro/Intro';
 import PopularVag from '../PopularVag/PopularVag';
 import Pricing from '../Pricing/Pricing';
@@ -20,6 +21,7 @@ const Home = () => {
       <OurStuff />
       <Pricing />
       <Banner2 />
+      <BlogSlider />
     </div>
   );
 };
