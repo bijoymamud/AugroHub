@@ -225,6 +225,7 @@ import 'swiper/css/free-mode';
 import 'swiper/css/pagination';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
+
 import { FreeMode } from 'swiper/modules';
 
 const OurStuff = () => {
@@ -260,7 +261,8 @@ const OurStuff = () => {
         <SwiperSlide className=''>
           <div className="card card-compact w-[230px] h-full bg-base-100 "> {/* Reduce card width */}
             <figure className="flex justify-center items-center h-[250px]">
-              <img className='w-auto h-auto max-w-full max-h-full transition-transform duration-300 transform hover:scale-110' src="https://i.ibb.co/N1H4Tkv/portrait-asian-farmer-woman-holding-wooden-box-full-fresh-raw-vegetables-organic-farm-concept.jpg" alt="Shoes" />
+             
+                <img className='w-auto h-auto max-w-full max-h-full transition-transform duration-300 transform hover:scale-110' src="https://i.ibb.co/N1H4Tkv/portrait-asian-farmer-woman-holding-wooden-box-full-fresh-raw-vegetables-organic-farm-concept.jpg" alt="Shoes" />
             </figure>
             <div className="card-body mx-auto ">
               <h2 className="card-title text-2xl font-extrabold">Angelina Rose</h2>
@@ -271,7 +273,9 @@ const OurStuff = () => {
         <SwiperSlide>
           <div className="card card-compact w-[230px] h-full bg-base-100 "> {/* Reduce card width */}
             <figure className="flex justify-center items-center h-[250px]">
-              <img className='w-auto h-auto max-w-full max-h-full transition-transform duration-300 transform hover:scale-110' src="https://i.ibb.co/MGG9K8s/asian-middle-aged-farmer-man-wearing-straw-hat-write-clipboard-rice-field-with-smile-keep-data.jpg" alt="Shoes" />
+             
+                <img className='w-auto h-auto max-w-full max-h-full transition-transform duration-300 transform hover:scale-110' src="https://i.ibb.co/MGG9K8s/asian-middle-aged-farmer-man-wearing-straw-hat-write-clipboard-rice-field-with-smile-keep-data.jpg" alt="Shoes" />
+            
             </figure>
             <div className="card-body mx-auto">
               <h2 className="card-title text-2xl font-extrabold">Henry Joshep</h2>
@@ -283,7 +287,9 @@ const OurStuff = () => {
         <SwiperSlide>
           <div className="card card-compact w-[230px] h-full bg-base-100 "> {/* Reduce card width */}
             <figure className="flex justify-center items-center h-[250px]">
-              <img className='w-auto h-auto max-w-full max-h-full transition-transform duration-300 transform hover:scale-110' src="https://i.ibb.co/d7KwkhD/full-shot-smiley-woman-working-outdoors.jpg" alt="Shoes" />
+             
+                <img className='w-auto h-auto max-w-full max-h-full transition-transform duration-300 transform hover:scale-110' src="https://i.ibb.co/d7KwkhD/full-shot-smiley-woman-working-outdoors.jpg" alt="Shoes" />
+             
             </figure>
             <div className="card-body mx-auto">
               <h2 className="card-title text-2xl font-extrabold">Eva Cormorant</h2>
@@ -295,7 +301,9 @@ const OurStuff = () => {
         <SwiperSlide>
           <div className="card card-compact w-[230px] h-full bg-base-100 "> {/* Reduce card width */}
             <figure className="flex justify-center items-center h-[250px]">
-              <img className='w-auto h-auto max-w-full max-h-full transition-transform duration-300 transform hover:scale-110' src="https://i.ibb.co/N1H4Tkv/portrait-asian-farmer-woman-holding-wooden-box-full-fresh-raw-vegetables-organic-farm-concept.jpg" alt="Shoes" />
+           
+                <img className='w-auto h-auto max-w-full max-h-full transition-transform duration-300 transform hover:scale-110' src="https://i.ibb.co/N1H4Tkv/portrait-asian-farmer-woman-holding-wooden-box-full-fresh-raw-vegetables-organic-farm-concept.jpg" alt="Shoes" />
+              
             </figure>
             <div className="card-body mx-auto">
               <h2 className="card-title text-2xl font-extrabold">Angelina Rose</h2>

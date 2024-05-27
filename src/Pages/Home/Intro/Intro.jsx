@@ -1,5 +1,6 @@
 // import React from 'react';
 
+
 // const Intro = () => {
 //   return (
 //     <section className='my-32 w-5/6 mx-auto'>
@@ -84,6 +85,7 @@ const Intro = () => {
     <section className='my-32 w-5/6 mx-auto'>
       <div className='flex items-center justify-center gap-20'>
         <div className='w-5/6'>
+
           <img className='rounded-3xl mx-auto h-[350px] w-[250px]' src="https://i.ibb.co/XCkL6mg/pexels-zen-chung-5529591.jpg" alt="" />
         </div>
         <div className='w-full relative'>

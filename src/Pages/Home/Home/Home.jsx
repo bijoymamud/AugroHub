@@ -1,4 +1,5 @@
 
+import Accordiam from '../Accordiam/Accordiam';
 import Banner from '../Banner/Banner';
 import Banner2 from '../Banner2/Banner2';
 import Benefit from '../Benefit/Benefit';
@@ -22,6 +23,7 @@ const Home = () => {
       <Pricing />
       <Banner2 />
       <BlogSlider />
+      <Accordiam />
     </div>
   );
 };

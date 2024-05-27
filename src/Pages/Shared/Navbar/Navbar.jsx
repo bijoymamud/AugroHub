@@ -10,7 +10,7 @@ const navItems = <>
 
   </li>
   <li tabIndex={0}>
-    <Link className='font-bold text-lg text-white' to="/findDoc">About Us</Link>
+    <Link className='font-bold text-lg text-white' to="/products">Products</Link>
 
   </li>
 
@@ -27,6 +27,8 @@ const navItems = <>
   <li tabIndex={0}>
     <Link className='font-bold text-lg text-white' to="/contact">Contact</Link>
   </li>
+
+
 
 
 
@@ -52,7 +54,7 @@ const Navbar = () => {
 
           </ul>
         </div>
-        <img className="w-[100px] h-[90px] mt-2" src="https://i.ibb.co/5kcWs2q/Green-Minimalist-Urban-Farming-Illustration-Organic-Food-Logo-1-removebg-preview.png" alt="" />
+        <img className="w-[100px] h-[90px] mt-2" src="https://i.ibb.co/5kcWs2q/Green-Minimalist-Urban-Fa…stration-Organic-Food-Logo-1-removebg-preview.png" alt="" />
 
       </div>
       <div className="navbar-center hidden lg:flex">
@@ -123,3 +125,6 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+
+

@@ -1,0 +1,256 @@
+[
+  {
+    "id": 10121,
+    "name": "Red Tomato",
+    "description": "Every 500gm of the product will contain 7-10 pcs of Tomato.The tomato is consumed in diverse ways, including raw, as an ingredient in many dishes, sauces, salads, and drinks. While it is botanically a fruit,it is considered a vegetable for culinary purposes. The fruit is rich in lycopene, which may have beneficial health effects.",
+    "price": 45,
+    "imageURLs": [
+      "https://images.pexels.com/photos/5945900/pexels-photo-5945900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "kg",
+    "category": "vegetable",
+    "quantity": 100
+  },
+  {
+    "id": 10122,
+    "name": "Potato",
+    "description": "Buy regular potato from us which provides you with dietary fiber, potassium, vitamins, etc. Regular potato provides 9-10 percent of your daily need. Regular potatoes offer more of this nutrient which helps control your blood pressure.Make a good curry with regular potato. You can make French fries and you can enjoy with your family members",
+    "price": 55,
+    "imageURLs": [
+      "https://images.pexels.com/photos/144248/potatoes-vegetables-erdfrucht-bio-144248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "kg",
+    "category": "vegetable",
+    "quantity": 200
+  },
+  {
+    "id": 10123,
+    "name": "Carrot",
+    "description": "5-7 pcs Fresh Carrots pre-packed for your convenience. Carrots are an excellent source of vitamin a and they help promote heart,eye, brain, skin and liver health. Best eaten raw for maximum health benefits",
+    "price": 50,
+    "imageURLs": [
+      "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "kg",
+    "category": "vegetable",
+    "quantity": 10
+  },
+  {
+    "id": 10124,
+    "name": "Fulkopi (Cauliflower)",
+    "description": "Cauliflower is as good a source of fiber and vitamins.Its ingredients may help strengthen bones, boost the cardiovascular system, and prevent cancer.Tasty ways of eating cauliflower include cauliflower crust pizza and cauliflower and cheese soup.People who are using blood thinners should not suddenly start eating a lot of cauliflower because the high levels of vitamin K could react adversely with the drugs.Nutritional facts/Ingredients ",
+    "price": 80,
+    "imageURLs": [
+      "https://images.pexels.com/photos/6316515/pexels-photo-6316515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "kg",
+    "category": "vegetable",
+    "quantity": 110
+  },
+  {
+    "id": 10125,
+    "name": "Deshi Shosha (Local)",
+    "description": "Every 500 gm of the product will contain 3-5 pcs of Shosha (Local Cucumber).Locally sourced.Few foods are as cool as a cucumber.While most people think of cucumbers as vegetables, they are actually a fruit.Cucumbers are naturally low in calories, carbohydrates, sodium, fat and cholesterol & hydrating properties",
+    "price": 50,
+    "imageURLs": [
+      "https://images.pexels.com/photos/2329440/pexels-photo-2329440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "kg",
+    "category": "vegetable",
+    "quantity": 60
+  },
+  {
+    "id": 10126,
+    "name": "Badhakopi",
+    "description": "Cabbage structurally consists of clusters of stiff leaves superimposed in compact layers, allowing it to aquire round or globular shape vegetable. Fresh cabbage is an excellent source of natural antioxidant, vitamin C. Provides 36.6 mg or about 61% of RDA per 100 g. Regular consumption of foods rich in vitamin C helps the body develop resistance against infectious agents and scavenge harmful, pro-inflammatory free radicals. Cabbage is one of storehouse of phyto-chemicals like thiocyanates, indole-3-carbinol, lutein, zea-xanthin, sulforaphane, and isothiocyanates. These compounds work as powerful antioxidants and known to help protect against breast, colon, and prostate cancers.",
+    "price": 50,
+    "imageURLs": [
+      "https://images.pexels.com/photos/134877/pexels-photo-134877.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "pcs",
+    "category": "vegetable",
+    "quantity": 70
+  },
+  {
+    "id": 10127,
+    "name": "Misti Kumra",
+    "description": "Sweet Pumpkin is an extremely nutrient dense food, meaning it is chock-full of vitamins and minerals but low on calories.There are many creative ways pumpkin can be incorporated into your diet, including desserts, soups, salads, preserves and even as a substitute for butter.Sweet Pumpkin is a rich source of vitamin A. Sweet Pumpkin is one of the best-known sources of the antioxidant beta-carotene. Pumpkin puree or canned pumpkin can be used as a replacement for butter or oil in baking recipes",
+    "price": 30,
+    "imageURLs": [
+      "https://images.pexels.com/photos/10112734/pexels-photo-10112734.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "kg",
+    "category": "vegetable",
+    "quantity": 200
+  },
+  {
+    "id": 10128,
+    "name": "Apple",
+    "description": "Crisp and sweet apples",
+    "price": 1.49,
+    "imageURLs": [
+      "https://images.pexels.com/photos/209439/pexels-photo-209439.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "kg",
+    "category": "fruit",
+    "quantity": 10
+  },
+  {
+    "id": 10129,
+    "name": "Rice",
+    "description": "High-quality basmati rice",
+    "price": 5.99,
+    "imageURLs": [
+      "https://www.world-grain.com/ext/resources/Article-Images/2020/05/Rice_AdobeStock_64819529_E.jpg?height=667&t=1591304238&width=1080"
+    ],
+    "unit": "kg",
+    "category": "rice",
+    "quantity": 300
+  },
+  {
+    "id": 101210,
+    "name": "Olive Oil",
+    "description": "Cold-pressed extra virgin olive oil",
+    "price": 12.99,
+    "imageURLs": [
+      "https://images.pexels.com/photos/1022385/pexels-photo-1022385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "liter",
+    "category": "oil",
+    "quantity": 300
+  },
+  {
+    "id": 101211,
+    "name": "Spices Variety Pack",
+    "description": "Assorted spices for cooking",
+    "price": 9.99,
+    "imageURLs": [
+      "https://images.pexels.com/photos/8240536/pexels-photo-8240536.png?auto=compress&cs=tinysrgb&w=600"
+    ],
+    "unit": "pce",
+    "category": "masala",
+    "quantity": 300
+  },
+
+  {
+    "id": 101213,
+    "name": "Chicken Breast",
+    "description": "Skinless and boneless chicken breast",
+    "price": 6.99,
+    "imageURLs": [
+      "https://images.pexels.com/photos/3688/food-dinner-lunch-chicken.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "kg",
+    "category": "foods",
+    "quantity": 10
+  },
+  {
+    "id": 101214,
+    "name": "Mango",
+    "description": "Sweet and juicy mangoes",
+    "price": 3.49,
+    "imageURLs": [
+      "https://static.vecteezy.com/system/resources/previews/023/732/136/non_2x/mango-fruit-hanging-on-a-tree-with-a-rustic-wooden-table-free-photo.jpg"
+    ],
+    "unit": "pce",
+    "category": "fruit",
+    "quantity": 300
+  },
+  {
+    "id": 101215,
+    "name": "Wheat Flour",
+    "description": "Premium quality wheat flour",
+    "price": 4.99,
+    "imageURLs": [
+      "https://www.thespruceeats.com/thmb/J1_oUODgxQi9Gm6iccam2LNYPpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-126372385-58950f353df78caebc239b4d.jpg"
+    ],
+    "unit": "bag",
+    "category": "foods",
+    "quantity": 300
+  },
+  {
+    "id": 101216,
+    "name": "Onions",
+    "description": "Fresh and aromatic onions",
+    "price": 1.29,
+    "imageURLs": [
+      "https://images.pexels.com/photos/6316528/pexels-photo-6316528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "kg",
+    "category": "vegetable",
+    "quantity": 29
+  },
+
+  {
+    "id": 101217,
+    "name": "Bananas",
+    "description": "Ripe and delicious bananas",
+    "price": 0.99,
+    "imageURLs": [
+      "https://images.pexels.com/photos/1093038/pexels-photo-1093038.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "pce",
+    "category": "fruit",
+    "quantity": 110
+  },
+  {
+    "id": 101218,
+    "name": "Coconut Oil",
+    "description": "Organic cold-pressed coconut oil",
+    "price": 14.99,
+    "imageURLs": [
+      "https://images.pexels.com/photos/11809347/pexels-photo-11809347.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "liter",
+    "category": "oil",
+    "quantity": 300
+  },
+  {
+    "id": 101219,
+    "name": "Green Coconut",
+    "description": "Green Coconut is a liquid equivalent  of vanilla  ",
+    "price": 2.49,
+    "imageURLs": [
+      "https://images.pexels.com/photos/1424457/pexels-photo-1424457.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "pce",
+    "category": "foods",
+    "quantity": 20
+  },
+  {
+    "id": 101220,
+    "name": "Sweet Potatoes",
+    "description": "Fresh and versatile potatoes",
+    "price": 1.49,
+    "imageURLs": [
+      "https://images.pexels.com/photos/13059602/pexels-photo-13059602.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "kg",
+    "category": "vegetable",
+    "quantity": 200
+  },
+  {
+    "id": 101221,
+    "name": "Quinoa",
+    "description": "Organic quinoa grains",
+    "price": 7.99,
+    "imageURLs": [
+      "https://images.pexels.com/photos/9893176/pexels-photo-9893176.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "kg",
+    "category": "foods",
+    "quantity": 100
+  },
+  {
+    "id": 101222,
+    "name": "Oranges",
+    "description": "Juicy and vitamin-rich oranges",
+    "price": 2.29,
+    "imageURLs": [
+      "https://images.pexels.com/photos/207085/pexels-photo-207085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "unit": "kg",
+    "category": "fruit",
+    "quantity": 100
+  }
+]

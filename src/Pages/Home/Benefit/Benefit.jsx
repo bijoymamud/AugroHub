@@ -41,7 +41,9 @@ const Benefit = () => {
 
 
         <div>
+
           <img src="https://themeholy.com/wordpress/frutin/wp-content/uploads/2024/03/why_4_1.png" alt="" />
+
         </div>
 
       </div>

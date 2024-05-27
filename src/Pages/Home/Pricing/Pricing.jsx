@@ -1,5 +1,6 @@
 import { FaStar } from "react-icons/fa";
 
+
 const Pricing = () => {
   return (
     <section className="py-20 w-4/6 mx-auto">
@@ -9,7 +10,9 @@ const Pricing = () => {
       <div className="grid grid-cols-3 gap-20">
         <div className="card w-96 bg-base-100 shadow-xl">
           <figure className="px-10 pt-10">
+
             <img src="https://images.pexels.com/photos/129574/pexels-photo-129574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Shoes" className="rounded-full w-50 h-72 transition-transform duration-300 transform hover:scale-110" />
+
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title text-2xl font-extrabold hover:text-[#5dc001] ">Orange Fooods</h2>
@@ -25,7 +28,9 @@ const Pricing = () => {
 
         <div className="card w-96 bg-[#5dc001] shadow-xl">
           <figure className="px-10 pt-10">
+
             <img src="https://images.pexels.com/photos/10048183/pexels-photo-10048183.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" className="rounded-full w-50 h-72 transition-transform duration-300 transform hover:scale-110" />
+
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title text-2xl font-extrabold text-white hover:text-black">Organic Drinks</h2>
@@ -41,7 +46,9 @@ const Pricing = () => {
 
         <div className="card w-96 bg-base-100 shadow-xl">
           <figure className="px-10 pt-10">
+
             <img src="https://images.unsplash.com/photo-1518843875459-f738682238a6?q=80&w=2042&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Shoes" className="rounded-full w-50 h-72 transition-transform duration-300 transform hover:scale-110" />
+
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title text-2xl font-extrabold">Fresh Vegetables</h2>
